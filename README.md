@@ -10,4 +10,4 @@ A short note on writing LaTex/ MathJx equations on markdown.
 Several tricks of using html in Markdown  
   
 _Note: Some features work on Jupyter Notebook but not on GitHUb   
-      (Example: allignment)_
+      (Example: Allignment)_
