@@ -9,5 +9,5 @@ A short note on writing LaTex/ MathJx equations on markdown.
 
 Several tricks of using html in Markdown  
   
-Note: Some features work on Jupyter Notebbook but not on GitHUb   
-      (Example: allignment)
+_Note: Some features work on Jupyter Notebbook but not on GitHUb   
+      (Example: allignment)_
