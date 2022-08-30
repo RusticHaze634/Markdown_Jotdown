@@ -8,5 +8,6 @@ A short note on writing LaTex/ MathJx equations on markdown.
 ### [Markdown Tricks](https://github.com/RusticHaze634/Markdown_Jotdown/blob/main/Notes/Markdown%20Tricks.ipynb)
 
 Several tricks of using html in Markdown  
+  
 Note: Some features work on Jupyter Notebbook but not on GitHUb   
       (Example: allignment)
