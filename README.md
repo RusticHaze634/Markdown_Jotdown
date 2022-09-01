@@ -9,5 +9,7 @@ A short note on writing LaTex/ MathJx equations on markdown.
 
 Several tricks of using html in Markdown  
   
-_Note: Some features work on Jupyter Notebook but not on GitHUb   
-      (Example: Allignment)_
+<p style="text-align: left; font-family: times"><i> Note: Some features work on Jupyter Notebook but not on GitHUb   
+      (Example: Allignment)</i></p>  
+
+
